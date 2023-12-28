@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Poulami</h1>
-<h3 align="center">I am a Software Developer, Problem Solver, and a life-long learner</h3>
+<h3 align="center">I am a Software Developer, problem solver, and a lifelong learner</h3>
 <p>
     <span style="font-weight: bold;">⚡ I am proficient in Backend Software Development using :</span> <strong> Java | Spring Boot | Microservices | AWS | MongoDB </strong>
 </p>
