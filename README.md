@@ -1,21 +1,20 @@
 <h1 align="center">Hi there 👋, I'm Poulami</h1>
-<h3 align="center">I am a Software Developer, Problem Solver and a Life-long learner</h3>
-
+<h3 align="center">I am a Software Developer, Problem Solver, and a life-long learner</h3>
 <p>
-    <span style="font-weight: bold;">⚡ Technologies I am proficient in:</span> <strong> Java | Spring Boot| Microservices | AWS | MongoDB </strong>
+    <span style="font-weight: bold;">⚡ I am proficient in Backend Software Development using :</span> <strong> Java | Spring Boot | Microservices | AWS | MongoDB </strong>
 </p>
 <ul>
     <li>
-        <span style="font-weight: bold;">🔭 I am exploring on</span> <strong>Blockchain and Web3 Development</strong>
+        <span style="font-weight: bold;">🔭 I am currently exploring on</span> <strong>Blockchain and Web3 Development</strong>
     </li>
     <li>
-        <span style="font-weight: bold;">🌱 I am also currently brushing up my </span> <strong>DataStructures, Algorithm and Problem Solving Skills</strong>
+        <span style="font-weight: bold;">🌱 Parallelly I am also brushing up my </span> <strong>DataStructures, Algorithm and Problem Solving Skills</strong>
     </li>
     <li>
         <span style="font-weight: bold;">💬 Ask me about anything, I am happy to help</span>
     </li>
     <li>
-        <span style="font-weight: bold;">👨 I share my Insights about Career, Tech and Interview Preparations at </span> <a href="https://medium.com/@poulamimukherjee">Medium</a>
+        <span style="font-weight: bold;">👨 I share my Insights about Career, Tech, and Interview Preparations at </span> <a href="https://medium.com/@poulamimukherjee">Medium</a>
     </li>
     <li>
         <span style="font-weight: bold;">🌐 Please visit my</span> <span style="font-weight: bold;">:boom:</span> <a href="https://poulami-mukherjee.github.io/">porfolio website</a> <span style="font-weight: bold;">for complete background and contact.</span>
